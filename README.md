@@ -59,3 +59,5 @@ $$localY = dx \cdot \sin(-\theta) + dy \cdot \cos(-\theta)$$
 1. 克隆或下载本仓库中的 `PuzzlePro v14.html` 文件。
 2. 双击该 HTML 文件，即可在任何现代浏览器（Chrome、Edge、Safari 等）中完美运行。
 3. 也可以直接将其托付于 **GitHub Pages**、**Vercel** 或 **Netlify** 等静态文件托管平台，一键生成在线工具网站。
+
+4. wuiop178@qq.com
